@@ -1,4 +1,4 @@
-# Kliper on Prusa MK3s
+# Klipper on Prusa MK3s
 Structured Klipper config for Prusa MK3s/MK3s+ 3D printer, inspired by https://github.com/Rat-OS/RatOS-configuration
 
 ## Pre-Check
